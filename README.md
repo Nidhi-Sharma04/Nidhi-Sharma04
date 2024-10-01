@@ -1,4 +1,4 @@
-**HELLO WORLD!I'm NIDHI SHARMA**<br/><br/>
+**HELLO WORLD!  I'm NIDHI SHARMA**<br/><br/>
 **About Me** 🚀<br/><br/>
 🌱 I’m a Student pursuing Bachelors degree in Computer Science and Engineering.<br/>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.<br/><br/>
