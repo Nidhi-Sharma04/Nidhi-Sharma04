@@ -3,6 +3,7 @@
 **About Me** 🚀<br/><br/>
 🌱 I’m a Student pursuing Bachelors degree in Computer Science and Engineering.<br/>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.<br/><br/>
+🔭 Machine Learning Intern at AICTE.
 
 **LANGUAGES AND TOOLS:**<br/>
 <br/>
