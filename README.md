@@ -1,14 +1,16 @@
 <h1 align="center">Hi there, I'm NIDHI SHARMA 👋</h1>
 
+
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9rODJrcm9odmY4OGR5dTJmdHQzcHFoemR4djBoMHE5YjlsdDVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" style="width: 100%;" alt="Professional Coding GIF">
-
-
-
-
-
-
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" alt="Welcome GIF Left" width="49%">
+  <img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" alt="Welcome GIF Right" width="49%">
 </p>
+
+
+
+
+
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Web+%26+AI+Developer;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Debugging+Fanatic+%F0%9F%A4%96" alt="Typing SVG" />
