@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm NIDHI SHARMA 👋</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/xIcl0z4qI-AAAAAM/git-commit-push.gif" width="400" alt="Git Commit Push GIF">
+<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47c4bmq08zo7fn7dm53763qcnzgqg24fe8cuibyurq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" alt="Professional Coding GIF">
+
 
 
 
