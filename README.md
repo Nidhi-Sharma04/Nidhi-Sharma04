@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm NIDHI SHARMA 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400" alt="Girl Coding GIF">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF">
+
 
 </p>
 
