@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm NIDHI SHARMA 👋</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47c4bmq08zo7fn7dm53763qcnzgqg24fe8cuibyurq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" alt="Professional Coding GIF">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9rODJrcm9odmY4OGR5dTJmdHQzcHFoemR4djBoMHE5YjlsdDVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" style="width: 100%;" alt="Professional Coding GIF">
+
 
 
 
