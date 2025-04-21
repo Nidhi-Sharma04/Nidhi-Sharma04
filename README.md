@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Web+%26+AI+Developer;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Debugging+Fanatic+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Web+%26+AI+Developer;Tech+Explorer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Debugging+Fanatic+%F0%9F%A4%96" alt="Typing SVG" />
 </h3>
 
 ---
