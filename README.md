@@ -24,7 +24,7 @@
 - 💬 Ask me about **JavaScript, Python, or AI tools**
 - 🤝 Always open to **collaborating** on meaningful tech
 - 🧠 I enjoy solving problems and turning ideas into working code
-- 📚 Completed AI internship with Microsoft & SAP (TechSaksham)
+- 📚 Completed AI/ML internship with AICTE -TechSaksham
 - 🧩 Participated in coding competitions & love debugging challenges
 - 📫 Reach me at: nidhisharma0155@gmail.com | [LinkedIn](https://linkedin.com/in/nidhi-sharma04)
 
